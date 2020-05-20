@@ -33,5 +33,7 @@ John se pone como un ejemplo de persona que podría estar interesada en estos se
 
 Él mismo se encarga de gestionar sus perfiles en las redes sociales por ahora, así como de todas las gestiones relacionadas con los proyectos que recibe. A continuación se puede ver una imagen de la persona.
 
+![John_preview](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/img/John_preview.png)
 
-El documento en formato PDF completo está disponibles pulsando [aquí]()
+
+El documento en formato PDF completo está disponibles pulsando [aquí]().
