@@ -9,7 +9,6 @@
 
 # 1. Fase de Análisis
 ## 1.1 Análisis Competitivo
------
 Una manera inteligente de empezar el rediseño de ErranT es compararla directamente con la otra opción que se nos proporcionaba. Esta opción también es una página de coworking y se llama [Cubikate](https://cubikate.es/). Vamos a analizar cada página por separado y a listar las cosas buenas y malas de cada alternativa, para ver desde un punto de vista de ErranT qué podemos mejorar con respecto a uno de nuestros competidores directos.
 
 Primeramente nada más entrar en cada una de las dos páginas nos encontramos lo siguiente:
@@ -22,10 +21,7 @@ Primeramente nada más entrar en cada una de las dos páginas nos encontramos lo
 * erranT no ofrece información sobre qué es el coworking, mientras que Cubikate sí. Está asumiendo que todo el público que entra a su página sabe a cerca del coworking y de lo que implica
 * Ambas páginas son responsive, se adaptan bien a cualquier dispositivo, aunque se podría mejorar el diseño
 
------
-
 ## 1.2 Personas
------
 Para ilustrar las necesidades que suelen tener los consumidores de espacios de coworking he creado una persona ficticia, John Redstone.
 John es un emprendedor autónomo que quiere comenzar a llevar a la realidad sus proyectos pero que aún no tiene la financiación ni la independencia suficiente como para tener empleados a su cargo, ni tener una oficina sólo para su negocio.
 
@@ -36,6 +32,5 @@ John se pone como un ejemplo de persona que podría estar interesada en estos se
 ![John_preview](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/img/John_preview.png)
 
 Esta persona se ha diseñado utilizando la herramienta online [HubSpot](https://www.hubspot.es/).
-
 
 El documento en formato PDF completo está disponibles pulsando [aquí](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/Documentos/John%20Redstone.pdf).
