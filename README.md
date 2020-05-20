@@ -27,6 +27,8 @@ John es un emprendedor autónomo que quiere comenzar a llevar a la realidad sus 
 
 John se pone como un ejemplo de persona que podría estar interesada en estos servicios. Una persona de mediana edad, entre los 25 y 40 años de edad, con estudios en el sector tecnológico o administrativo y con grandes ideas para emprender.
 
+Es importante destacar que esta persona no tiene por qué ser española, puede ser de cualquier nacionalidad, aunque preferiblemente debería tener conocimientos de inglés para poder comunicarse con el resto de compañeros de la oficina.
+
 Él mismo se encarga de gestionar sus perfiles en las redes sociales por ahora, así como de todas las gestiones relacionadas con los proyectos que recibe. A continuación se puede ver una imagen de la persona.
 
 ![John_preview](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/img/John_preview.png)
@@ -34,3 +36,20 @@ John se pone como un ejemplo de persona que podría estar interesada en estos se
 Esta persona se ha diseñado utilizando la herramienta online [HubSpot](https://www.hubspot.es/).
 
 El documento en formato PDF completo está disponibles pulsando [aquí](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/Documentos/John%20Redstone.pdf).
+
+No queremos tampoco dejar de lado el perfil de las PYMES. Las pequeñas y medianas empresas también usan los espacios de coworking y están interesadas en esos servicios. A diferencia de los autónomos, en las PYMES normalmente ya suele haber algún empleado con cierto reparto de tareas y también cierta jerarquía en cuanto a toma de decisiones y gestión de los proyectos.
+
+## 1.3 Metas y puntos a evitar de los usuarios
+En la Práctica 2 de la asignatura tuvimos la ocasión de leer un análisis real, el análisis de [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b). En este análisis se destacaban las metan y las debilidades de los usuarios *(obtenidas a través del punto anterior)* a la hora de querer usar una aplicación. Estimo oportuno hacer este análisis para tener en cuenta los puntos más relevantes a la hora de rediseñar la aplicación.
+
+### Metas
+* Los usuarios quieren obtener información sobre coworking. ¿Qué es? ¿Por qué lo necesito?
+* Los usuarios quieren saber la localización precisa de las oficinas que se ofrecen y de cómo se puede llegar a ellas *(transporte público, parking en los alrededores)*
+* Los usuarios quieren tener la posibilidad de alquilar un espacio independientemente del idioma
+* Los usuarios quieren obtener información precisa sobre tarifas y precios
+* Los usuarios quieren obtener información nformación precisa sobre las comodidades que se ofrecen en el espacio de coworking
+
+### Puntos a evitar
+* Los usuarios no quieren un ambiente de trabajo molesto, pretenden poder trabajar a gusto en las instalaciones
+* Los usuarios quieren tener una conexión a internet estable y continua
+* Los usuarios deben de poder disponer de espacios tranquilos y aislados para hacer reuniones con posibles clientes
