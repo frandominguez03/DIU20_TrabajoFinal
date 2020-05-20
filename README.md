@@ -20,6 +20,7 @@ Primeramente nada más entrar en cada una de las dos páginas nos encontramos lo
 * Cubikate no ofrece posibilidad de traducir la página a otro idioma
 * erranT no ofrece información sobre qué es el coworking, mientras que Cubikate sí. Está asumiendo que todo el público que entra a su página sabe a cerca del coworking y de lo que implica
 * Ambas páginas son responsive, se adaptan bien a cualquier dispositivo, aunque se podría mejorar el diseño
+* erranT tiene disponibles los precios de las tarifas mientras que Cubikate no
 
 ## 1.2 Personas
 Para ilustrar las necesidades que suelen tener los consumidores de espacios de coworking he creado una persona ficticia, John Redstone.
@@ -58,3 +59,16 @@ En la Práctica 2 de la asignatura tuvimos la ocasión de leer un análisis real
 * **Enlace al documento:** [PDF](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/Documentos/UsabilityReview_erranT.pdf)/[Excel](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/Documentos/UsabilityReview_erranT.xlsx)
 * **Valoración final:** 74/100
 * **Comentario sobre la valoración:** En general lo que le falla a erranT es tener una navegación más clara y accesible. El menú desaparece conforme bajas en la página y se hace poco dinámico alcanzarlo de nuevo tanto desde móvil como desde ordenador. El mapa que se muestra tampoco ayuda mucho, ya que es una imagen muy reducida, con algo de mala calidad y sin contexto. Las versiones en español e inglés tienen ciertas discrepancias e inconsistencias que deberían ser arregladas.
+
+# 2. Fase de Diseño UX
+## 2.1 Malla receptora de información. *(Feedback capture grid)*
+| **Interesante/Relevante**<br>                                                                                                                                                                                                                                                    | **Críticas constructivas**<br>                                                                                                                                                                                                                                                                                                                                                 |
+|-----|-----|
+| * Información justa. Directo al grano. Tarifas claras y bien explicadas..<br>* Interfaz agradable a la vista. Colores suaves y sin sobrecarga de contenido. | * Añadir información más relevante sobre qué es el coworking, qué beneficios tiene, qué me puede aportar...<br>* Se podría mejorar la selección de idiomas de la página y la consistencia entre ambas versiones.<br>* Mostrar un mapa interactivo de dónde se encuentran las oficinas. El actual es bastante malo y escaso de información.                                                                            |
+| <div align="center">**Preguntas a raíz de la experiencia**</div>                                                                                                                                                                                                                                 | <div align="center">**Nuevas ideas**</div>                                                                                                                                                                                                                                                                                                                       |
+| * ¿Se podrían añadir más opciones para filtrar la búsqueda? ¿Dónde estoy buscando exactamente?<br>* ¿Es posible tener un chat en vivo para hablar con los responsables sobre las instalaciones?<br>* ¿Se podrían añadir vídeos de las instalaciones?             | * Añadir información de accesibilidad al pie de página<br>* Ofrecer la posibilidad de suscribirse a la newsletter de erranT<br>* Detectar automáticamente el país desde donde se recibe una conexión para servir la página en un idioma u otro |
+
+**Propuesta de Valor**
+Con el rediseño de erranT pretendemos solventar todos los problemas que se encuentran los usuarios al navegar por la web: todo lo relacionado con idiomas y localización, mejor posicionamiento del menú *(que no se pierda cuando bajas la página)*, mayor consistencia entre los diferentes idiomas, implementar un mapa interactivo ayudándonos de Google Maps.
+
+También queremos dar visibilidad a la accesibilidad del sitio ya que no se especifica cómo de accesible es el sitio para personas con discapacidades de distintos tipos, como por ejemplo podrían ser visuales.
