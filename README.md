@@ -35,5 +35,7 @@ John se pone como un ejemplo de persona que podría estar interesada en estos se
 
 ![John_preview](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/img/John_preview.png)
 
+Esta persona se ha diseñado utilizando la herramienta online [HubSpot](https://www.hubspot.es/).
 
-El documento en formato PDF completo está disponibles pulsando [aquí]().
+
+El documento en formato PDF completo está disponibles pulsando [aquí](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/Documentos/John%20Redstone.pdf).
