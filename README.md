@@ -53,3 +53,8 @@ En la Práctica 2 de la asignatura tuvimos la ocasión de leer un análisis real
 * Los usuarios no quieren un ambiente de trabajo molesto, pretenden poder trabajar a gusto en las instalaciones
 * Los usuarios quieren tener una conexión a internet estable y continua
 * Los usuarios deben de poder disponer de espacios tranquilos y aislados para hacer reuniones con posibles clientes
+
+## 1.4 Usability Review
+* **Enlace al documento:** [PDF](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/Documentos/UsabilityReview_erranT.pdf)/[Excel](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/Documentos/UsabilityReview_erranT.xlsx)
+* **Valoración final:** 74/100
+* **Comentario sobre la valoración:** En general lo que le falla a erranT es tener una navegación más clara y accesible. El menú desaparece conforme bajas en la página y se hace poco dinámico alcanzarlo de nuevo tanto desde móvil como desde ordenador. El mapa que se muestra tampoco ayuda mucho, ya que es una imagen muy reducida, con algo de mala calidad y sin contexto. Las versiones en español e inglés tienen ciertas discrepancias e inconsistencias que deberían ser arregladas.
