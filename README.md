@@ -105,3 +105,5 @@ Considero que el logotipo actual de erranT carece de carácter y de originalidad
 <img src="https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/img/logo.png" alt="logo" width="200" height="180" />
 
 </p>
+
+El logotipo se ha diseñado usando la herramienta gratuita [Placeit](https://placeit.net/) que incluye una pequeña marca de agua sobre su fondo, al ser gratuita.
