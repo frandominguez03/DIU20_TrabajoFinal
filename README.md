@@ -108,5 +108,22 @@ Considero que el logotipo actual de erranT carece de carácter y de originalidad
 
 El logotipo se ha diseñado usando la herramienta gratuita [Placeit](https://placeit.net/) que incluye una pequeña marca de agua sobre su fondo, al ser gratuita.
 
-## 3.2 Vídeo
+## 3.2 Patrones de diseño y guidelines
+A continuación procedo a exponer los patrones de diseño y guidelines seguidos en el rediseño de erranT. Estos se han elegido después de un estudio hecho en [este enlace](https://www.smashingmagazine.com/web-design-essentials-examples-and-best-practices/).
+
+En primer lugar y como se muestran en los wireframes anteriores, se utiliza el patrón <em>Call-To-Action Buttons</em>. Este patrón es sencillo y lo que quiere indicar claramente es qué acción va a realizar un botón cuanndo se pulsa en él. En ambos wireframes, se ve como todos los botones que se disponen a lo largo de la página tienen su acción escrita, y se sabe de antemano a dónde te llevará directamente.
+
+También he implementado el patrón <em>The Holy Search Box</em> que simplemente. Este patrón lo que nos aconseja es que tengamos una barra de búsqueda disponible y a la vista en la página, ya que nos ayudará a organizar nuestra página y mejorará los resultados en los motores de búsqueda. Esta barra también está disponible en los diseños previamente mencionados.
+
+Como fuente de la página he considerado que una fuente que se adaptaría bien al diseño sería <em>Roboto</em> perteneciente a Google.
+
+Por último, la paleta de colores de la página la hemos generado mediante la página [Coolors](https://coolors.co/). La paleta resulta de tonos granate, junto con blanco y negro. Ha quedado como sigue:
+
+<p align="center">
+  
+<img src="https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/img/paleta_colores.png" alt="Paleta" width="200" height="180" />
+
+</p>
+
+## 3.3 Vídeo
 He realizado un vídeo para exponer mi propuesta de valor y el rediseño de erranT. Se puede acceder a él, pulsando en [este enlace](https://drive.google.com/file/d/1Dq_bqISGsrvouHBDusBSGe6oa442UZlk/view?usp=sharing).
