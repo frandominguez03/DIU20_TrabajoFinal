@@ -121,7 +121,7 @@ Por último, la paleta de colores de la página la hemos generado mediante la p�
 
 <p align="center">
   
-<img src="https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/img/paleta_colores.png" alt="Paleta" width="200" height="180" />
+<img src="https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/img/paleta_colores.png" alt="Paleta" />
 
 </p>
 
