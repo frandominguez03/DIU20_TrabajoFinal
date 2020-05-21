@@ -72,3 +72,14 @@ En la Práctica 2 de la asignatura tuvimos la ocasión de leer un análisis real
 Con el rediseño de erranT pretendemos solventar todos los problemas que se encuentran los usuarios al navegar por la web: todo lo relacionado con idiomas y localización, mejor posicionamiento del menú *(que no se pierda cuando bajas la página)*, mayor consistencia entre los diferentes idiomas, implementar un mapa interactivo ayudándonos de Google Maps.
 
 También queremos dar visibilidad a la accesibilidad del sitio ya que no se especifica cómo de accesible es el sitio para personas con discapacidades de distintos tipos, como por ejemplo podrían ser visuales.
+
+## 2.2 Wireframes
+Propongo a continuación algunos wireframes que podrían ser útiles para ofrecer homogeneidad en cuanto al diseño en ambas versiones. Con los wireframes propuestos se desea enfatizar el protagonismo del menú junto con disponer de enlaces útiles en la página principal que nos puedan llevar a otras partes de la página, como se muestra a continuación:
+
+<p align="center">  
+  
+<img src="https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/img/Wireframe1.png" alt="Wireframe1" width="550" height="550" />  
+
+</p>
+
+Se puede visualizar en tamaño completo [aquí](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/img/Wireframe1.png).
