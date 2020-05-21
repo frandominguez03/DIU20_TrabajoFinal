@@ -95,3 +95,13 @@ También se ha hecho una versión móvil en la que de nuevo se hace énfasis sob
 </p>
 
 Ambos wireframes cumplen con los problemas de los usuarios mencionados anteriormente: la estandarización del diseño, una mejor accesibilidad al menú principal, y también una mejora a la indicación de la página activa en el menú.
+
+# 3. UX-Case Study
+## 3.1 Logotipo
+Considero que el logotipo actual de erranT carece de carácter y de originalidad. He diseñado un nuevo logotipo que podría ir más acorde con la temática del sitio, así como considero que le dará algo más de carácter a la empresa y a la propia página. Ha quedado así:
+
+<p align="center">
+  
+<img src="https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/img/logo.png" alt="logo" width="200" height="180" />
+
+</p>
