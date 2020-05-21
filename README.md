@@ -108,7 +108,5 @@ Considero que el logotipo actual de erranT carece de carácter y de originalidad
 
 El logotipo se ha diseñado usando la herramienta gratuita [Placeit](https://placeit.net/) que incluye una pequeña marca de agua sobre su fondo, al ser gratuita.
 
-## 3.2 Patrones de diseño y guidelines
-
-## 3.3 Vídeo
+## 3.2 Vídeo
 He realizado un vídeo para exponer mi propuesta de valor y el rediseño de erranT. Se puede acceder a él, pulsando en [este enlace](https://drive.google.com/file/d/1Dq_bqISGsrvouHBDusBSGe6oa442UZlk/view?usp=sharing).
