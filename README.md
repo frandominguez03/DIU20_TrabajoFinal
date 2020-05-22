@@ -127,3 +127,26 @@ Por último, la paleta de colores de la página la hemos generado mediante la p�
 
 ## 3.3 Vídeo
 He realizado un vídeo para exponer mi propuesta de valor y el rediseño de erranT. Se puede acceder a él, pulsando en [este enlace](https://drive.google.com/file/d/1Dq_bqISGsrvouHBDusBSGe6oa442UZlk/view?usp=sharing).
+
+# 4. Evaluación de accesibilidad
+Vamos a comenzar ahora, para finalizar el trabajo, con la evaluación de accesibilidad de erranT. Para hacer esta evaluación de accesibilidad me apoyaré en la plantilla que se nos proporcionó previamente para el Ejercicio 3 de la asignatura relacionado con la accesibilidad del sitio web de la Agenda 2030 del Gobierno de España.
+
+## Pautas de WCAG
+Se ha usado la primera página de la plantilla anteriormente mencionada para hacer un estudio de la accesibilidad de erranT según las pautas de accesibilidad. Se incluyen en el documento las herramientas usadas, la valoración para cada punto estipulado y una valoración total. Se puede leer el documento a través de [este enlace](https://github.com/frandominguez03/DIU20_TrabajoFinal/blob/master/Documentos/DIU20_TrabajoFinal_EvAccesibilidad.pdf).
+
+## Simulador de Accesibilidad
+Para realizar un estudio rápido de la accesibilidad dependiendo de las discapacidades de cada persona, me apoyaré en una de las herramientas sugeridas en la plantilla anteriormente mencionada. No usaré en este caso la plantilla ya que la mayoría de simulaciones que se sugerían no corresponden con lo que se quiere demostrar de erranT, así que haré un estudio rápido independiente. La herramienta usada es un plugin de Google Chrome llamado [Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla?hl=es).
+
+En una primera simulación con problemas visuales no he podido identificar grandes problemas. Los posibles usuarios con daltonismo, seguirían viendo la página con normalidad debido a la tonalidad de colores que usan. En este aspecto erranT cumple bastante bien las expectativas. Tampoco se ven muy afectados los usuarios con hipermetropía, ya que como se ha comentado en el análisis de las pautas WCAG, al aumentar el tamaño de la página, su estructura se adapta al dispositivo y además el tamaño de las letras aumenta de manera acorde. En este aspecto la página también cumple bastante bien.
+
+Para terminar este análisis, he activado el simulador de Parkinsons. La página también se adapta bastante bien a personas con este tipo de problemas de movilidad. La página ofrece botones grandes que se pueden pulsar de manera fácil incluso con problemas movilidad. Por otro lado, dispone de botones más pequeños que son más difíciles de alcanzar. Botones como por ejemplo el menú superior, los botones para cambiar idioma o hacer una búsqueda así como los de la redes sociales.
+
+## Conclusión de la Evaluación de Accesibilidad
+Como conclusión quiero destacar lo bien preparada que está erranT frente a problemas de accesibilidad. Creo que esto se debe a que están utilizando un sistema de creación de páginas o blogs muy extendido en su campo como es Wordpress, y este estará preparado de forma nativa para estos problemas.
+
+El único fallo, evidentemente, es que no ofrece información alguna de accesibilidad en la página. Normalmente esta información se encuentra accesible en el pie de página, pero no es el caso, ya que no se ha encontrado en toda la página.
+
+# 5. Conclusión del Trabajo Final
+Para terminar el documento, expongo mis conclusiones finales sobre la realización de este trabajo.
+
+Inicialmente no sabía cuánto tiempo me podría ocupar un trabajo así, pero a medida que iba realizando las diferentes tareas vistas en la asignatura tanto en la parte teórica como en las prácticas, me ha resultado bastante más fácil de lo que me esperaba. Al haber ido haciendo las prácticas y al recibir la evaluación en forma de checklist desde el profesor, la tarea de realiazar un análisis UX desde 0 en unas pocas horas no ha sido tan pesada como creía. Un aspecto que me ha resultado algo incómodo a la hora de realizar este trabajo final ha sido la falta de funcionalidades de la página. Inicialmente, en nuestro proyecto de prácticas, teníamos disponible una aplicación con registro, inicio de sesión, muchos formularios, fotografías... Pero para estas páginas de coworking hemos tenido que hacer un análisis sobre ua página estática en su mayoría. Ha sido algo nuevo en lo que al análisis se refiere, pero creo que ha salido bastante bien al final.
